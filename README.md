@@ -316,7 +316,7 @@ Example:
 ## 🌐 Live Demo
 
 🚀 **Streamlit App:**
-`YOUR_STREAMLIT_APP_URL`
+https://rag-document-assistant-rrybpokwqpt8fxjr7w7evk.streamlit.app/
 
 ---
 
